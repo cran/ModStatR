@@ -1,8 +1,8 @@
-78ee9369c82c3c5fe7aa95457e4826fd *DESCRIPTION
+4add94f096644813b945054902f82dd3 *DESCRIPTION
 a5b53b29dab83093e2f5195410299b92 *NAMESPACE
-7d60adff68f448d037af438d896775be *NEWS.md
+e7df7bd3f268d0d917d9d3d320a886d7 *NEWS.md
 2f6b9d5092ff2debabd94003716a8bb3 *R/ModStatR-package.R
-66e206becec5c5dfb331a47612fcd1df *R/datasets.R
+838ea538ef19422a793030e1916140d8 *R/datasets.R
 486958427e5bd2f2ba7bef39060027a2 *R/functions.R
 7421266c8233eecb8933ca92b1dc6550 *data/CancerSein.RData
 302a77e8e8a458d6aaeaced7ccc21dde *data/SidaChat.RData
@@ -15,7 +15,7 @@ d54b7e73b842396d752e2aa5b3f3e3ba *data/d_pres2002.RData
 d1667297bf2fd85cb2ffe1ec71110c2c *data/d_pres2007.RData
 724259c05c7649ac1904236639888c15 *data/d_vac.RData
 4c9465eb56284dae8949dab17e26f92a *data/d_wow.RData
-84bc68a5bee80c49028c5f7ee83a1f6b *data/data_event.RData
+3936b31308364bcb9e60236fb4fb20ef *data/data_event.RData
 b505466384e3af7c233c0873d5af26ab *data/ecole2.RData
 ffcc9f723e957bf0d2f57936cccc334c *data/ecole3.RData
 2708a1fa3a5526b28ae0e68345ffe258 *data/parasites.RData
@@ -59,7 +59,7 @@ c6ba1b302f5eed351ddc8f0b5b3cc6b5 *man/my.confidence.region.Rd
 6fb5f522fc91541adffaf4235969bf3d *man/parasites.Rd
 aee022285e2db35e0a42c92969defbb0 *man/perm.cor.mtest.Rd
 8b72cb76589d1a9a56684bed27d54885 *man/poke.Rd
-b2cf9a114c7e73f249ae2437f4b766fc *man/polypes.Rd
+f983d5197064d8be10cc3cea3e0b5925 *man/polypes.Rd
 0ffa39e52dc3f69202cb3174c6619478 *man/ref.cor.mtest.Rd
 7e0e95d4c39b2016537c7acd49f48dd4 *man/ref.cor.test.Rd
 b8c9d9e9f2b722a64c07ea3fde90c081 *man/resistance.Rd
