@@ -1,5 +1,13 @@
+# ModStatR 1.4.0
+
+* Fixed package description
+* Fixed suggests
+* Added unit tests
+* Added coverage
+
 # ModStatR 1.3.2
 
+* Slight code improvement in examples
 * Maintainer address update
 
 # ModStatR 1.3.1
